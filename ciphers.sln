@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ciphers", "ciphers\ciphers.csproj", "{787C5629-7CB4-44D5-9449-02C3FE198699}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{787C5629-7CB4-44D5-9449-02C3FE198699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{787C5629-7CB4-44D5-9449-02C3FE198699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{787C5629-7CB4-44D5-9449-02C3FE198699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{787C5629-7CB4-44D5-9449-02C3FE198699}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8796C7B-7745-4BCB-A122-E86F74782E86}
+	EndGlobalSection
+EndGlobal
